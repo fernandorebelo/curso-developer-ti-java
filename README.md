@@ -8,7 +8,7 @@ Módulo I: Introdução Básica ao Universo da Computação
     [x] Variáveis e constantes
     [x] Álgebra Booleana
     [x] Expressões Lógicas e Aritméticas
-    [] Estruturas de Decisão
+    [x] Estruturas de Decisão
     [] Estruturas de Escolha
     [] Estruturas de Repetição
     [] Boas práticas de programação
