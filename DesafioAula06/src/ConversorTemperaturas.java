@@ -1,3 +1,4 @@
+import javax.swing.JOptionPane;
 
 public class ConversorTemperaturas {
 
@@ -14,7 +15,7 @@ public class ConversorTemperaturas {
 		double fahren;
 		double kelvin;
 		
-		celsius = 25;
+		celsius = Integer.parseInt(JOptionPane.showInputDialog("Valor em Celsius"));
 		fahren = celsius * 1.8 + 32;
 		
 		System.out.println("CONVERTER DE CELSIUS PARA FAHRENHEIT");
