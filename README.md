@@ -9,7 +9,7 @@ Módulo I: Introdução Básica ao Universo da Computação
     [x] Álgebra Booleana
     [x] Expressões Lógicas e Aritméticas
     [x] Estruturas de Decisão
-    [] Estruturas de Escolha
+    [x] Estruturas de Escolha
     [] Estruturas de Repetição
     [] Boas práticas de programação
     [] Exemplos de códigos ilegíveis e legíveis a partir das boas práticas de programação
