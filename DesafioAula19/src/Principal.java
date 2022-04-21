@@ -17,11 +17,7 @@ public class Principal {
 		String diaSemana;
 		
 		dia = Integer.parseInt(JOptionPane.showInputDialog("Digite um número de 1 a 7"));
-		
-		if(dia < 1 || dia > 7) {
-			JOptionPane.showMessageDialog(null, "Dia não encontrado! Digite um valor de 1 a 7!");
-		};
-		
+				
 		switch(dia) {
 			case 1:
 				diaSemana = "O dia da semana é Segunda-feira!";
@@ -36,7 +32,7 @@ public class Principal {
 				diaSemana = "O dia da semana é Quinta-feira!";
 				break;
 			case 5:
-				diaSemana = "O dia da semana é Sexta-feir!a";
+				diaSemana = "O dia da semana é Sexta-feira!";
 				break;
 			case 6:
 				diaSemana = "O dia da semana é Sábado-feira!";

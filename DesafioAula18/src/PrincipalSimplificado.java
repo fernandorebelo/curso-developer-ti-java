@@ -10,7 +10,7 @@ public class PrincipalSimplificado {
 		nome = JOptionPane.showInputDialog("Qual seu nome?");
 		idade = Integer.parseInt(JOptionPane.showInputDialog("Qual sua idade?"));
 		acompanhado = Boolean.parseBoolean(JOptionPane.showInputDialog("Está acompanhado? true/false"));
-		ingresso = Boolean.parseBoolean(JOptionPane.showInputDialog("Você tem ingresso em mãos?"));
+		ingresso = Boolean.parseBoolean(JOptionPane.showInputDialog("Você tem ingresso em mãos? true/false"));
 		
 		if ((idade >= 18 || acompanhado) && ingresso) {
 			String informacoes = "DADOS DO CLIENTE" + "\n";
