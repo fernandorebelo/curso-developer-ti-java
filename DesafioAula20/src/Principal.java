@@ -21,8 +21,6 @@ public class Principal {
 		default:
 			JOptionPane.showMessageDialog(null, "Você digitou uma consoante: " + letra);
 			break;
-		//dúvida: porque quando coloco um número ele retorna o default
-		//mesmo a variável sendo uma String
 		}
 	}
 

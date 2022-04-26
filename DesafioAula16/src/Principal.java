@@ -10,10 +10,10 @@ public class Principal {
 		
 		if(numero1 > numero2) {
 			JOptionPane.showMessageDialog(null, "O primeiro número é maior que o segundo!");
-		}else if(numero1 == numero2){
-			JOptionPane.showMessageDialog(null, "Os números são iguais!");
-		}else {
+		}else if(numero1 < numero2){
 			JOptionPane.showMessageDialog(null, "O segundo número é maior que o primeiro!");
+		}else {
+			JOptionPane.showMessageDialog(null, "Os números são iguais");
 		}
 	}
 
