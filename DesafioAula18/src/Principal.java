@@ -31,7 +31,7 @@ public class Principal {
 			informacoes += "Acesso LIBERADO ao evento!";
 			JOptionPane.showMessageDialog(null, informacoes);
 		}else if(idade < 18) {
-			acompanhado = Boolean.parseBoolean(JOptionPane.showInputDialog("Você está acompanhado? true/false"));
+			acompanhado = Boolean.parseBoolean(JOptionPane.showInputDialog("Você está acompanhado? Sim/Não").toLowerCase().replace("sim", "true"));
 			if(idade < 18 && acompanhado) {
 				String informacoes = "INFORMAÇÕES DO CLIENTE" + "\n";
 				informacoes += "Nome: " + nome + "\n";
