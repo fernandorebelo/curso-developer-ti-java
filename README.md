@@ -16,9 +16,9 @@ Módulo I: Introdução Básica ao Universo da Computação
 
 Módulo II: Competências para o Desenvolvedor Backend
 
-    [] Classes e Objetos
-    [] Atributos e Métodos
-    [] Modificadores de Acesso
+    [x] Classes e Objetos
+    [x] Atributos e Métodos
+    [x] Modificadores de Acesso
     [] Modificadores de Atributos e Escopo.
     [] Construtores
     [] Passagem de Parâmetros
