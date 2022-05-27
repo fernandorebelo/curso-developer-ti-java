@@ -19,9 +19,9 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Classes e Objetos
     [x] Atributos e Métodos
     [x] Modificadores de Acesso    
-    [x] Escopo de Variáveis
     [x] Construtores
     [x] Passagem de Parâmetros
+    [x] Escopo de Variáveis
     [] Modificadores de Atributos 
     [] Sobrecarga e Sobrescrita de Métodos
     [] Herança
