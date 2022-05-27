@@ -20,8 +20,8 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Atributos e Métodos
     [x] Modificadores de Acesso
     [] Modificadores de Atributos e Escopo.
-    [] Construtores
-    [] Passagem de Parâmetros
+    [x] Construtores
+    [x] Passagem de Parâmetros
     [] Sobrecarga e Sobrescrita de Métodos
     [] Herança
     [] Polimorfismo
