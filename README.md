@@ -25,6 +25,9 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Passagem de Parâmetros
     [x] Escopo de Variáveis
     [x] Modificadores de Atributos e Métodos
+    [x] Array, array multidimensional
+    [] Collection: Set, Vector, LinkedList, List, ArrayList, Map, HashMap
+    [] Encapsulamento, Getters e Setters
     [] Sobrecarga e Sobrescrita de Métodos
     [] Herança
     [] Polimorfismo
