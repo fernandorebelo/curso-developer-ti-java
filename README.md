@@ -28,9 +28,9 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Array, array multidimensional
     [x] Collection: Array, ArrayList, HashMap
     [x] Encapsulamento, Getters e Setters
-    [] Sobrecarga e Sobrescrita de Métodos
-    [] Herança
-    [] Polimorfismo
+    [X] Sobrecarga e Sobrescrita de Métodos
+    [X] Herança
+    [X] Polimorfismo
     [] Associação
     [] Interfaces
     [] Casting
