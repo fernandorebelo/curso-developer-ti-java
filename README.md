@@ -31,10 +31,10 @@ Módulo II: Competências para o Desenvolvedor Backend
     [X] Sobrecarga e Sobrescrita de Métodos
     [X] Herança
     [X] Polimorfismo
-    [] Associação
-    [] Interfaces
-    [] Casting
-    [] Diagrama de Classes
+    [x] Associação
+    [x] Interfaces
+    [x] Casting
+    [x] Diagrama de Classes
     [] Validações e Controles
     [] Testes
     [] Projeto Orientado a Objetos
