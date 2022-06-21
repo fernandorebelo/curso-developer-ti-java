@@ -36,7 +36,7 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Associação
     [x] Interfaces
     [x] Casting
-    [x] Diagrama de Classes
+    [x] Diagrama de Classes - UML
     [x] Validações e Controles
     [x] Sobrecargas
     [x] Classes e métodos abstratos
