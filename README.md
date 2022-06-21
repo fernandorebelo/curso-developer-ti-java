@@ -1,4 +1,6 @@
 # Curso Developer TI Full stack - Java
+Acompanhe o andamento do curso.
+
 Repositório do que está sendo produzido em sala de aula no curso de desenvolvedor.
 
 [Curso developer TI - Full stack](https://www.devtisul.com.br/) 
@@ -35,8 +37,15 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Interfaces
     [x] Casting
     [x] Diagrama de Classes
-    [] Validações e Controles
-    [] Testes
+    [x] Validações e Controles
+    [x] Sobrecargas
+    [x] Classes e métodos abstratos
+    [x] Interface
+    [x] Pacotes - Packages
+    [x] Conceitos de aplicações - Batch, Desktop, Web, Mobile e Embarcada
+    [x] Exportação e execução de projetos em extensão .jar
+    [] SWING
+    [] Netbeans
     [] Projeto Orientado a Objetos
     [] Banco de Dados
     [] Implementação de Camada DAO no Projeto Orientado a Objetos com todas as operações CRUD.
