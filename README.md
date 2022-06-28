@@ -44,8 +44,11 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Pacotes - Packages
     [x] Conceitos de aplicações - Batch, Desktop, Web, Mobile e Embarcada
     [x] Exportação e execução de projetos em extensão .jar
-    [] SWING
-    [] Netbeans
+    [x] SWING
+    [x] Netbeans
+    [x] Window Builder
+    [x] UX - Introdução a UX
+    [x] Padrões de projetos: MVC e Layer
     [] Projeto Orientado a Objetos
     [] Banco de Dados
     [] Implementação de Camada DAO no Projeto Orientado a Objetos com todas as operações CRUD.
