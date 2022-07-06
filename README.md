@@ -49,9 +49,10 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Window Builder
     [x] UX - Introdução a UX
     [x] Padrões de projetos: MVC e Layer
-    [] Projeto Orientado a Objetos
-    [] Banco de Dados
-    [] Implementação de Camada DAO no Projeto Orientado a Objetos com todas as operações CRUD.
+    [x] Layer Pattern: camadas Entity, Service, BO - Business Object, DAO - Data Access Object
+    [] Banco de Dados - MySQL
+    [] Conexão camada DAO com Banco de Dados
+    [] Implementação de operações CRUD
 
 Módulo III: Formação prática em Desenvolvimento Web / Frontend
 
