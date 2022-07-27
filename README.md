@@ -46,13 +46,14 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Exportação e execução de projetos em extensão .jar
     [x] SWING
     [x] Netbeans
-    [x] Window Builder
+    [x] Window Builder - SWING
     [x] UX - Introdução a UX
     [x] Padrões de projetos: MVC e Layer
     [x] Layer Pattern: camadas Entity, Service, BO - Business Object, DAO - Data Access Object
-    [] Banco de Dados - MySQL
-    [] Conexão camada DAO com Banco de Dados
-    [] Implementação de operações CRUD
+    [x] Banco de Dados - MySQL
+    [x] Conexão camada DAO com Banco de Dados
+    [x] Implementação de operações CRUD - Create, Read, Update, Delete
+    [] Projeto final - Aplicação desktop de gerenciamento de clientes e projetos
 
 Módulo III: Formação prática em Desenvolvimento Web / Frontend
 
