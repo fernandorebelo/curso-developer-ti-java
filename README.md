@@ -68,6 +68,6 @@ Módulo III: Formação prática em Desenvolvimento Web / Frontend
     [] Java – Spring Boot – Introdução
     [] Sprint Boot – Integração com o Banco de dados
     [] Sprint Boot – Expondo API Rest
-    [] Projeto – Integração Front end Crud Javascript + Backend Spring Boot
-    [] Introdução a frameworks Front-End (Rect.js ou Angular)
+    [] Projeto – Integração Front end CRUD Javascript + Backend Spring Boot
+    [] Introdução a frameworks Front-End (React.js, Angular, VUE.js, Flutter)
     [] Documentação
