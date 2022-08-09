@@ -60,9 +60,9 @@ Módulo II: Competências para o Desenvolvedor Backend
 
 Módulo III: Formação prática em Desenvolvimento Web / Frontend
 
-    [] Fundamentos da programação WEB
+    [] Fundamentos da programação WEB - HTML e CSS
     [] Javascript
-    [] Programação colaborativa e versioning Metodologias ágeis: SCRUM
+    [] Programação colaborativa e versioning (Git) e Metodologias ágeis: SCRUM, Kanban
     [] Javascript Moderno
     [] Explorando APIs
     [] Java – Spring Boot – Introdução
