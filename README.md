@@ -54,6 +54,8 @@ Módulo II: Competências para o Desenvolvedor Backend
     [x] Conexão camada DAO com Banco de Dados
     [x] Implementação de operações CRUD - Create, Read, Update, Delete
     [x] Método de filtragem de dados e implementação em tela
+    [x] Conceitos de qualidade e teste de software
+    [x] Introdução a Junit
     [x] Projeto final - Aplicação desktop de gerenciamento de clientes e projetos
 
 Módulo III: Formação prática em Desenvolvimento Web / Frontend
